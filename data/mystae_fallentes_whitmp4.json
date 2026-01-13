@@ -35,6 +35,13 @@
 			"hz": 240,
 			"mobile": false,
 			"enjoyment": 7
+		},
+		{
+			"user": "Fallen",
+			"link": "https://youtu.be/qACM51Ug7eA",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 3
 		}
 	]
 }
