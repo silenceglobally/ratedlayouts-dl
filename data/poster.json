@@ -398,6 +398,13 @@
 			"percent": 100,
 			"hz": 240,
 			"enjoyment": 8
+		},
+		{
+			"user": "trafficcone1000",
+			"link": "https://www.youtube.com/watch?v=GwLGG56wAcs",
+			"percent": 100,
+			"hz": 180,
+			"enjoyment": 9
 		}
 	]
 }
