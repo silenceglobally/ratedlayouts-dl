@@ -1,12 +1,22 @@
 {
 	"id": 131605329,
 	"name": "FLAMING HOT CHEETOS",
-	"creators": ["Blysteryx"],
+	"creators": [
+		"Blysteryx"
+	],
 	"verifier": "Blysteryx",
 	"verification": "https://youtu.be/KzTlnypmh08?si=T1mq78FsGQ9BgEPh",
 	"percentToQualify": 100,
 	"password": "Free to copy",
 	"difficulty": 1,
 	"song": "MDK - Fingerbang",
-	"records": []
+	"records": [
+		{
+			"user": "hardhat900",
+			"link": "https://youtu.be/qrC0wyMm5Xg?si=NEjLve8KIDCiENGm",
+			"percent": 100,
+			"hz": 288,
+			"enjoyment": 3
+		}
+	]
 }
