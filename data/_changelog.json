@@ -1231,5 +1231,14 @@
 		"from_rank": null,
 		"above": "epilogue",
 		"below": "faerie"
+	},
+	{
+		"date": 1769136174,
+		"action": "placed",
+		"name": "let_em_go_crazy",
+		"to_rank": 349,
+		"from_rank": null,
+		"above": "forget_you",
+		"below": "ambatukam"
 	}
 ]
