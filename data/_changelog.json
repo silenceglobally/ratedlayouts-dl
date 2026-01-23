@@ -1222,5 +1222,14 @@
 		"from_rank": null,
 		"above": "project_e",
 		"below": "dying_star"
+	},
+	{
+		"date": 1769136094,
+		"action": "placed",
+		"name": "flamin_hot_cheetos",
+		"to_rank": 355,
+		"from_rank": null,
+		"above": "epilogue",
+		"below": "faerie"
 	}
 ]
