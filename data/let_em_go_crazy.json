@@ -18,6 +18,13 @@
 			"hz": 60,
 			"mobile": true,
 			"enjoyment": 4
+		},
+		{
+			"user": "hardhat900",
+			"link": "https://youtu.be/k2AekyTQr6w",
+			"percent": 100,
+			"hz": 288,
+			"enjoyment": 6
 		}
 	]
 }
