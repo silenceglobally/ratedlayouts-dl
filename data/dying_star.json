@@ -36,18 +36,18 @@
 			"enjoyment": 9
 		},
 		{
-			"user": "Hydraniac",
-			"link": "https://youtu.be/vY2FIkOquD0?si=Vgr1HewLxqfA_WUy",
-			"percent": 100,
-			"hz": 240,
-			"enjoyment": 9
-		},
-		{
 			"user": "nootfluke",
 			"link": "https://youtu.be/ruaaYz8JsDE",
 			"percent": 100,
 			"hz": 480,
 			"enjoyment": 0
+		},
+		{
+			"user": "Hydraniac",
+			"link": "https://youtu.be/vY2FIkOquD0?si=Vgr1HewLxqfA_WUy",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 9
 		}
 	]
 }
