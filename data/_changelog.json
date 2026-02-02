@@ -1276,5 +1276,14 @@
 		"from_rank": null,
 		"above": "max",
 		"below": "fiberglass"
+	},
+	{
+		"date": 1769997072,
+		"action": "raised",
+		"name": "memosepia",
+		"to_rank": 51,
+		"from_rank": 68,
+		"above": "clock_disaster",
+		"below": "dirge"
 	}
 ]
