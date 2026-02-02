@@ -35,6 +35,14 @@
 			"hz": 60,
 			"mobile": true,
 			"enjoyment": 10
+		},
+		{
+			"user": "1st3y1",
+			"link": "https://youtu.be/YQ_HfZ7fyEI",
+			"percent": 100,
+			"hz": 144,
+			"mobile": false,
+			"enjoyment": 9
 		}
 	]
 }
