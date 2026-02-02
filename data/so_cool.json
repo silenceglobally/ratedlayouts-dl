@@ -1677,6 +1677,14 @@
 			"hz": 360,
 			"mobile": false,
 			"enjoyment": 7
+		},
+		{
+			"user": "PandaPL",
+			"link": "https://youtu.be/3MbJcldwK5Y",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false,
+			"enjoyment": 5
 		}
 	]
 }
