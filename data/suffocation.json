@@ -1,7 +1,9 @@
 {
 	"id": 126062062,
 	"name": "Suffocation",
-	"creators": ["Popples"],
+	"creators": [
+		"Popples"
+	],
 	"verifier": "Popples",
 	"verification": "https://youtu.be/R38s4EsxLI4",
 	"percentToQualify": 100,
@@ -9,5 +11,13 @@
 	"difficulty": 8,
 	"song": "AzureFrontline - Suffocating Memory",
 	"enjoyment": 10,
-	"records": []
+	"records": [
+		{
+			"user": "Hydraniac",
+			"link": "https://medal.tv/games/geometry-dash/clips/m3MherChZzFCmI3dc?invite=cr-MSxzQkosMTg1OTcxMTAw&v=93",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 9
+		}
+	]
 }
