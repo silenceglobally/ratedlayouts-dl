@@ -16,21 +16,24 @@
 			"link": "https://youtu.be/cl75uEWc6u0",
 			"percent": 100,
 			"hz": 360,
-			"mobile": false
+			"mobile": false,
+			"enjoyment": 10
 		},
 		{
 			"user": "Armani",
 			"link": "https://youtu.be/KWiR3Bcyu5Y",
 			"percent": 100,
 			"hz": 360,
-			"mobile": false
+			"mobile": false,
+			"enjoyment": 9
 		},
 		{
 			"user": "ZBosGaming",
 			"link": "https://youtu.be/6IWnzesF_S8",
 			"percent": 100,
 			"hz": 240,
-			"mobile": false
+			"mobile": false,
+			"enjoyment": 7
 		},
 		{
 			"user": "exho",
@@ -66,7 +69,8 @@
 			"link": "https://www.youtube.com/watch?v=iAvmwK8_YGI",
 			"percent": 100,
 			"hz": 60,
-			"mobile": false
+			"mobile": false,
+			"enjoyment": 10
 		},
 		{
 			"user": "Khronos",
@@ -111,7 +115,8 @@
 			"link": "https://www.youtube.com/watch?v=dvcuH4TGlOQ",
 			"percent": 100,
 			"hz": 360,
-			"mobile": false
+			"mobile": false,
+			"enjoyment": 10
 		},
 		{
 			"user": "Syrcx",
