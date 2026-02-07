@@ -1285,5 +1285,14 @@
 		"from_rank": 68,
 		"above": "clock_disaster",
 		"below": "dirge"
+	},
+	{
+		"date": 1770436799,
+		"action": "placed",
+		"name": "dry_earth",
+		"to_rank": 181,
+		"from_rank": null,
+		"above": "the_fishies_are_dead",
+		"below": "manslaughter"
 	}
 ]
