@@ -1303,5 +1303,14 @@
 		"from_rank": null,
 		"above": "diyu",
 		"below": "acku"
+	},
+	{
+		"date": 1770609334,
+		"action": "placed",
+		"name": "snow_falls_at_night",
+		"to_rank": 450,
+		"from_rank": null,
+		"above": "fifty_k",
+		"below": "dark_matter"
 	}
 ]
