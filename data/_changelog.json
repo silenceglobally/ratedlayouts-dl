@@ -1330,5 +1330,14 @@
 		"from_rank": null,
 		"above": "twink_braindead",
 		"below": "clean"
+	},
+	{
+		"date": 1770945428,
+		"action": "placed",
+		"name": "phut_the_shuck_up",
+		"to_rank": 20,
+		"from_rank": null,
+		"above": "karma",
+		"below": "deluge"
 	}
 ]
