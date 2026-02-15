@@ -132,6 +132,13 @@
 			"percent": 100,
 			"hz": 1000,
 			"enjoyment": 1
+		},
+		{
+			"user": "NLShorty",
+			"link": "https://youtu.be/4lVl6w7nDqk?si=uLVRVE9gja8rMdvz",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 0
 		}
 	]
 }
