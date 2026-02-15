@@ -1339,5 +1339,14 @@
 		"from_rank": null,
 		"above": "karma",
 		"below": "deluge"
+	},
+	{
+		"date": 1771174308,
+		"action": "placed",
+		"name": "sky_fortress",
+		"to_rank": 34,
+		"from_rank": null,
+		"above": "blade_of_faith",
+		"below": "exosphere"
 	}
 ]
