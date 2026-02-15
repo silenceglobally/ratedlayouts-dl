@@ -30,6 +30,14 @@
 			"link": "https://youtu.be/4gI4IPo-7ZU",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "deletenine",
+			"link": "https://youtu.be/4nlA9-C9Yeo",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false,
+			"enjoyment": 8
 		}
 	]
 }
