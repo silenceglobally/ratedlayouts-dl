@@ -240,6 +240,14 @@
 			"hz": 60,
 			"mobile": true,
 			"enjoyment": 8
+		},
+		{
+			"user": "sans_hanitizer",
+			"link": "https://medal.tv/games/geometry-dash/clips/m4CFY7SaOTnNkZtn_?invite=cr-MSxIS2UsNDc1MjEzMzM5&v=501",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false,
+			"enjoyment": 6
 		}
 	]
 }
