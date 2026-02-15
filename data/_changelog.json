@@ -1348,5 +1348,14 @@
 		"from_rank": null,
 		"above": "blade_of_faith",
 		"below": "exosphere"
+	},
+	{
+		"date": 1771174539,
+		"action": "placed",
+		"name": "war",
+		"to_rank": 7,
+		"from_rank": null,
+		"above": "max",
+		"below": "1945"
 	}
 ]
