@@ -11,5 +11,14 @@
 	"difficulty": 0,
 	"song": "oneheart x reidenshi - snowfall",
 	"songLink": "https://drive.google.com/file/d/1VlrAnAUgY0fYrDo4U3rKC3Ow0di6P5Qk/view?usp=drive_link",
-	"records": []
+	"records": [
+		{
+			"user": "Poke Zach",
+			"link": "https://youtu.be/Jc1MBFok61c?si=40NJhH6o4o4fXuV9",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 5,
+			"mobile": true
+		}
+	]
 }
