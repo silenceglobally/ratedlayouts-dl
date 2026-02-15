@@ -88,6 +88,13 @@
 			"hz": 240,
 			"mobile": false,
 			"enjoyment": 9
+		},
+		{
+			"user": "BigCinderBlock",
+			"link": "https://www.youtube.com/watch?v=0PQzctrrO7E",
+			"percent": 100,
+			"hz": 120,
+			"enjoyment": 8
 		}
 	]
 }
