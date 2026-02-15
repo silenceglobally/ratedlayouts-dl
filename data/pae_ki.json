@@ -201,6 +201,13 @@
 			"hz": 240,
 			"mobile": false,
 			"enjoyment": 8
+		},
+		{
+			"user": "JustUnew",
+			"link": "https://www.youtube.com/watch?v=uM3Wkm6HDhQ",
+			"percent": 100,
+			"hz": 60,
+			"enjoyment": 6
 		}
 	]
 }
