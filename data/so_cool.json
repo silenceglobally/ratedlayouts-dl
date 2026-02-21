@@ -1730,6 +1730,13 @@
 			"hz": 144,
 			"mobile": false,
 			"enjoyment": 10
+		},
+		{
+			"user": "TheShadyGray",
+			"link": "https://youtu.be/s8faJaMVg9E",
+			"percent": 100,
+			"hz": 180,
+			"enjoyment": 8
 		}
 	]
 }
