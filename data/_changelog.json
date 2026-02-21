@@ -1357,5 +1357,14 @@
 		"from_rank": null,
 		"above": "max",
 		"below": "1945"
+	},
+	{
+		"date": 1771713023,
+		"action": "placed",
+		"name": "clohy_difficult",
+		"to_rank": 213,
+		"from_rank": null,
+		"above": "unordinary_life",
+		"below": "to_the_moon"
 	}
 ]
