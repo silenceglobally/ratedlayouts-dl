@@ -925,6 +925,14 @@
 			"hz": 360,
 			"mobile": false,
 			"enjoyment": 7
+		},
+		{
+			"user": "blue guy7",
+			"link": "https://youtu.be/z5syMYwZLJ0?si=ro_ZUbHHRoOGEL76",
+			"percent": 100,
+			"hz": 240,
+			"mobile": false,
+			"enjoyment": 10
 		}
 	]
 }
