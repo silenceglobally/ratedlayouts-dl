@@ -1,12 +1,22 @@
 {
 	"id": 132751448,
 	"name": "evil",
-	"creators": ["azakl"],
+	"creators": [
+		"azakl"
+	],
 	"verifier": "azakl",
 	"verification": "https://youtu.be/iDcLlkzr2YA?si=FJoMAUxtTDO7qIbi",
 	"percentToQualify": 100,
 	"password": "Free to copy",
 	"difficulty": 4,
 	"song": "NK - Evil",
-	"records": []
+	"records": [
+		{
+			"user": "Hydraniac",
+			"link": "https://medal.tv/games/geometry-dash/clips/m5raAU3Tz40ghX2iy?invite=cr-MSxLUEIsMTg1OTcxMTAw&v=89",
+			"percent": 100,
+			"hz": 240,
+			"enjoyment": 9
+		}
+	]
 }
