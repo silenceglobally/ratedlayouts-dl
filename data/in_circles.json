@@ -369,6 +369,13 @@
 			"hz": 60,
 			"enjoyment": 1,
 			"mobile": true
+		},
+		{
+			"user": "SwemasGD",
+			"link": "https://www.youtube.com/watch?v=6YmVtofRAb0",
+			"percent": 100,
+			"hz": 288,
+			"enjoyment": 7
 		}
 	]
 }
