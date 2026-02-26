@@ -1,10 +1,10 @@
 :root {
     color-scheme: dark;
-    --color-background: #00b7ff;
+    --color-background: #000000;
     --color-on-background: white;
     --color-background-hover: #27262c;
     --color-on-background-hover: white;
-    --color-primary: #5d5e5e;
+    --color-primary: #008b8b;
     --color-primary-disabled: #1f213c;
     --color-on-primary: white;
     --color-error: #de0000;
