@@ -2,7 +2,7 @@ export default {
     template: `
         <div class="right-text">
             <p>
-                For your convenience, the Layout List caches the data for the list in your browser.
+                For your convenience, Rated Layouts List caches the data for the list in your browser.
             </p>
             <p>
                 By using the site, you agree to the storage of this data in your browser.
@@ -10,7 +10,7 @@ export default {
                 the site to load very slowly and is not recommended.
             </p>
             <p>
-                No data specific to you is collected or shared, and you can <u><a target="_blank" href="https://github.com/The-Layout-List">view the site's source code here</a></u>.
+                No data specific to you is collected or shared, and you can <u><a target="_blank" href="https://github.com/silenceglobally/ratedlayouts-dl">view the site's source code here</a></u>.
             </p>
         </div>
     `
