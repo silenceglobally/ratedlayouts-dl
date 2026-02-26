@@ -1,42 +1,13 @@
 [
     {
         "role": "owner",
-        "name": "evil",
+        "name": "exefmn",
         "link": "https://www.youtube.com/@EvilEmperium"
     },
+
     {
         "role": "owner",
-        "name": "Hydraniac",
-        "link": "https://www.youtube.com/@Hydraniac"
-    },
-    {
-        "role": "owner",
-        "name": "sphericle",
-        "link": "https://youtube.com/@zsphericle"
-    },
-    {
-        "role": "helper",
-        "name": "Infinera",
-        "link": "https://www.youtube.com/@infi9626"
-    },
-    {
-        "role": "helper",
-        "name": "skiptracingclub",
-        "link": "https://www.youtube.com/@skiptracingclub"
-    },
-    {
-        "role": "helper",
-        "name": "sn0wiscold",
-        "link": "https://www.youtube.com/@sn0wiscold"
-    },
-    {
-        "role": "helper",
-        "name": "tangi",
-        "link": "https://www.youtube.com/@Tangiiness"
-    },
-    {
-        "role": "dev",
-        "name": "sphericle",
-        "link": "https://github.com/sphericle"
+        "name": "silenceglobally",
+        "link": "https://www.youtube.com/@silenceglobally"
     }
 ]
