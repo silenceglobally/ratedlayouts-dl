@@ -13,10 +13,6 @@
 
 html,
 body {
-    background-image: url("assets/rlbanner.png");
-}
-
-body {
     height: 100%;
 }
 
@@ -28,13 +24,11 @@ body {
 
 header,
 main {
-    background-color: var(--color-background);
+    background-image: url("assets/rlbanner.png");
     color: var(--color-on-background);
     display: grid;
-    grid-template-columns: minmax(16rem, 1fr) minmax(16rem, 2fr) minmax(
-            16em,
-            1fr
-        );
+    grid-template-columns: minmax(16rem, 1fr) minmax(16rem, 2fr) minmax(16em,
+            1fr);
     column-gap: 2rem;
 }
 
