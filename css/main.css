@@ -13,6 +13,10 @@
 
 html,
 body {
+    background-image: url("assets/rlbanner.png");
+}
+
+body {
     height: 100%;
 }
 
@@ -24,10 +28,6 @@ body {
 
 header,
 main {
-body {
-            background-image: url("/assets/rlbanner.png");
-        
-
     background-color: var(--color-background);
     color: var(--color-on-background);
     display: grid;
@@ -226,5 +226,4 @@ input[type="checkbox"] {
 
 .button-bar.dark > * {
     fill: #FFFFFF
-}
 }
