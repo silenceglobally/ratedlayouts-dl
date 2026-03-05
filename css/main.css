@@ -24,6 +24,10 @@ body {
 
 header,
 main {
+body {
+            background-image: url("rlbanner.png");
+        }
+
     background-color: var(--color-background);
     color: var(--color-on-background);
     display: grid;
