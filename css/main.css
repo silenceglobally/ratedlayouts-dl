@@ -25,7 +25,7 @@ body {
 header,
 main {
 body {
-            background-image: url("rlbanner.png");
+            background-image: url("/assets/rlbanner.png");
         
 
     background-color: var(--color-background);
@@ -226,4 +226,5 @@ input[type="checkbox"] {
 
 .button-bar.dark > * {
     fill: #FFFFFF
+}
 }
