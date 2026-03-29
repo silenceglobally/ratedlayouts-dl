@@ -1,4 +1,4 @@
-# Welcome to the Layout List website repo!
+# Welcome to the RL demonList website repo!
 
 This website is a fork of the TSL template by Prometheus, but with many added features, like packs and a search bar.
 The extra features were developed by sphericle and Mystikl. Please let us know if you have a feature idea or bug report!
@@ -24,27 +24,16 @@ Can I submit multiple levels in one video?
 
 ---
 
-## List Leaders:
+## List Owner
 
-* Evil
-* Hydraniac
-* sphericle
+* Silenceglobally
 
 
 ---
 
-## List Helpers:
-
-* Infinera
-* Skip
-* sn0wiscold
-* tangi
-
-
----
 
 ## List Developers:
 
-* sphericle
+* silenceglobally
 
 
